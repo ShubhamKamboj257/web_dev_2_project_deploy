@@ -6,7 +6,7 @@ export const electronicsData = [
     price: 169900,
     slashedPrice: 199900,
     category: "Laptops",
-    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQck7SjOxHcgAcztrtXlvx8In8YEMwhK7ulcfLkzYhAqQ&s=10",
     rating: 4.8,
     reviewsCount: 312,
     specs: {
@@ -23,7 +23,7 @@ export const electronicsData = [
     price: 124999,
     slashedPrice: 134999,
     category: "Mobiles",
-    image: "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHHxBA9g-AQHDNPe6KajCQSQCSqM9m7XPK-UPRO8SjQ&s=10",
     rating: 4.7,
     reviewsCount: 184,
     specs: {

@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="bg-black text-white sticky top-0 z-50 px-6 py-4 flex items-center justify-between border-b border-zinc-800">
       <Link to="/" className="text-2xl font-bold tracking-wider text-white">
-        croma<span className="text-croma-green">.</span>
+        TECH STORE<span className="text-croma-green">.</span>
       </Link>
       
       <div className="hidden md:flex flex-1 mx-12 relative max-w-xl">
